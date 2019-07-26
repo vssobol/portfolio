@@ -9,11 +9,9 @@
 ***
 
 # Feature #2: Modify the Contents
-***
 ## As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
-***
-* Estimate of time needed to complete: **______**
-* Start time: **______**
+* Estimate of time needed to complete: **4 hours**
+* Start time: **7:15pm**
 * Finish time: **______**
 * Actual time needed to complete: **______**
 ***
