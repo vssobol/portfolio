@@ -3,9 +3,9 @@
 # Feature #1: Refactor the CSS
 ## As a user, I want the portfolio to have a clean UI so that it is visually appealing.
 * Estimate of time needed to complete: **1 hour**
-* Start time: **______**
-* Finish time: **______**
-* Actual time needed to complete: **______**
+* Start time: **6:15pm**
+* Finish time: **7pm**
+* Actual time needed to complete: **45 minutes**
 ***
 
 # Feature #2: Modify the Contents
